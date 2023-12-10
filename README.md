@@ -1,0 +1,1 @@
+ ./oauth2-proxy   --provider="oidc"   --client-id="24M90ao4sJIw5HOACTCsJm4f6P0fTBex"   --client-secret="iBbbWbBQokjo6AyXFTZy2mDMaX_7bYKx8pYF0_7WQ6sUDj-19D2-d0ASM2pnR_Om"   --oidc-issuer-url="https://dev-yiaw279m.auth0.com/"   --cookie-secret="secretpassword22"   --email-domain=*   --upstream="http://localhost:8000"   --redirect-url="http://localhost:4180/oauth2/callback"
